@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: Cyan;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 60px;
+
+}
+h1 {
+    text-align: center;
+    color: fuchsia;
+    font-size: 60px;
+
+}
+ footer{
+      background-color: gold;
+    padding: 10px;
+    font-size: 20px;
+ }
+ main {
+     background-color: goldenrod;
+
+
+ }
+ nav  {
+     margin: 10px;
+     padding: 20px;
+     border: 2px solid green;
+     border-radius: 10px;
+ }
+ p {
+     background-color: indianred;
+
+ }
+ 
